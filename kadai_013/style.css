@@ -123,5 +123,8 @@ PC用のスタイル
     background-repeat: no-repeat;
     background-position: right top;
   }
+  #nav-pc{
+    display: none;
+  }
 
 }
